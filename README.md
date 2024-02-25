@@ -148,7 +148,7 @@ Raghendra Singh - [@vijethph](https://github.com/Raghvendra9936)
 
 
 
-Project Link: [https://github.com/Raghvendra9936/PlacementCell](https://github.com/Raghvendra9936/PlacementCell)
+Project Link: [https://github.com/Raghvendra9936/Placement-Buddy](https://github.com/Raghvendra9936/Placement-Buddy)
 
 ## Thank You!
 
